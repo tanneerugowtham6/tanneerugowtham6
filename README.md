@@ -13,26 +13,29 @@
 
 I manage Azure environments at a scale most teams never touch — 250+ subscriptions, 1,000+ VMs — and build the automation, governance, and pipelines that keep them standardized, secure, and predictable. My work sits at the intersection of infrastructure as code, CI/CD engineering, and cloud governance.
 
-7.5+ years in IT, including 4.5+ years focused on Microsoft Azure. Currently a Senior Consultant at Capgemini, previously Senior Analyst at Deloitte.
+Nearly 8 years in IT, including 4.5+ years focused on Microsoft Azure. Currently a Senior Consultant at Capgemini.
 
 ---
 
-## What I Work On
+## Enterprise Work
 
-### ☁️ Enterprise Azure Infrastructure Automation (Capgemini)
+### Azure Infrastructure Automation & Governance — Capgemini
 
-> Terraform · Azure DevOps YAML · Azure Policy · Landing Zones · Hub-and-Spoke Networking
+**Terraform · Azure DevOps YAML · Azure Policy · Landing Zones · Hub-and-Spoke Networking**
 
 - Designed and automated Azure infrastructure deployments for backup, monitoring, patching, and reporting across 250+ subscriptions
 - Onboarded 1,000+ VMs into standardized, governance-compliant automated solutions
 - Implemented Azure Policies, tagging governance, and Landing Zone initiatives to enforce consistency at scale
 - Built YAML pipelines for infrastructure and application deployments, improving release reliability and consistency
+- Enforced least-privilege access using RBAC and Azure Key Vault for secrets management across enterprise environments
 
 ---
 
-### ⚙️ [Multi-Environment CI/CD with GitHub Actions](https://github.com/tanneerugowtham6/GitHub_Actions_CI_CD_Assignment)
+## Hands-On Projects
 
-> GitHub Actions · Flask · AWS EC2 · systemd · GitHub Webhooks
+### [Multi-Environment CI/CD with GitHub Actions](https://github.com/tanneerugowtham6/GitHub_Actions_CI_CD_Assignment)
+
+**GitHub Actions · Flask · AWS EC2 · systemd · GitHub Webhooks**
 
 A full CI/CD pipeline for a Python Flask application, automating build, test, and deployment to an AWS EC2 staging environment.
 
@@ -43,9 +46,9 @@ A full CI/CD pipeline for a Python Flask application, automating build, test, an
 
 ---
 
-### 🌍 [MERN Travel Memory App — AWS Deployment](https://github.com/tanneerugowtham6/HV_MERN_App)
+### [MERN Travel Memory App — AWS Deployment](https://github.com/tanneerugowtham6/HV_MERN_App)
 
-> AWS EC2 · ALB · Auto Scaling Groups · Cloudflare · Nginx · PM2
+**AWS EC2 · ALB · Auto Scaling Groups · Cloudflare · Nginx · PM2**
 
 A full-stack MERN application deployed on AWS with production-grade scaling and traffic routing.
 
@@ -56,15 +59,28 @@ A full-stack MERN application deployed on AWS with production-grade scaling and 
 
 ---
 
-### 🔧 More DevOps & Cloud Projects
+### [Jenkins CI/CD Pipeline](https://github.com/tanneerugowtham6/Jenkins_CI_CD_Assignment)
 
-| Repository | Focus |
-|---|---|
-| [Jenkins_CI_CD_Assignment](https://github.com/tanneerugowtham6/Jenkins_CI_CD_Assignment) | Jenkins-based CI/CD pipeline design and job configuration |
-| [MultienvApp](https://github.com/tanneerugowtham6/MultienvApp) | Multi-environment deployment workflows |
-| [Multi_env_GH_Actions](https://github.com/tanneerugowtham6/Multi_env_GH_Actions) | GitHub Actions across Dev/QA/Prod environments |
-| [E-CommerceStore](https://github.com/tanneerugowtham6/E-CommerceStore) | E-commerce application deployment |
-| [Skill-Test-3-Reattempt](https://github.com/tanneerugowtham6/Skill-Test-3-Reattempt) | Applied DevOps skills assessment |
+**Jenkins · Pipeline-as-Code · Build Automation**
+
+- Designed Jenkins job configurations and pipeline stages for automated build and deployment workflows
+- Configured triggers and staged deployments to mirror enterprise-style release gating
+
+---
+
+### [Multi-Environment Deployment Workflows](https://github.com/tanneerugowtham6/MultienvApp) & [GitHub Actions Across Dev/QA/Prod](https://github.com/tanneerugowtham6/Multi_env_GH_Actions)
+
+**GitHub Actions · Environment Promotion · Branch-Based Triggers**
+
+- Built environment-aware pipelines to promote builds across Dev, QA, and Production with branch-based triggers and approval gates
+
+---
+
+### [E-Commerce Store Deployment](https://github.com/tanneerugowtham6/E-CommerceStore)
+
+**Application Deployment · Cloud Hosting**
+
+- Deployed and configured an e-commerce application end-to-end, applying the same deployment discipline used in enterprise pipelines
 
 ---
 
@@ -76,11 +92,11 @@ A full-stack MERN application deployed on AWS with production-grade scaling and 
 
 **Containers:** Docker, Kubernetes (AKS)
 
+**Security & Governance:** RBAC, Azure Key Vault, Azure Policy, Tagging Standards, Landing Zones
+
 **Monitoring:** Azure Monitor, Log Analytics Workspace
 
 **Networking:** VNet, NSG, Load Balancer, Hub-and-Spoke Architecture
-
-**Governance:** Azure Policy, Tagging Standards, Landing Zones
 
 **Version Control:** GitHub, Azure Repos
 
@@ -94,10 +110,14 @@ A full-stack MERN application deployed on AWS with production-grade scaling and 
 
 ---
 
+## GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanneerugowtham6&show_icons=true&theme=default&hide_title=true)
+
+---
+
 <div align="center">
 
 **Open to Senior DevOps Engineer / Cloud Infrastructure / Platform Engineering roles.**
-
-[LinkedIn](https://linkedin.com/in/your-linkedin-handle) · gowthamsai.tanneeru@zohomail.in
 
 </div>
